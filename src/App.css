@@ -34,6 +34,17 @@ body {
   grid-template-columns: repeat(4, 2fr);
 }
 
+.quote-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.quote {
+  color: black;
+}
+
 .btn {
   display: flex;
   align-items: center;
