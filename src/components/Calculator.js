@@ -15,9 +15,12 @@ const Calculator = () => {
   };
 
   return (
-    <div className="main">
-      <Container total={obj.total} operation={obj.operation} next={obj.next} />
-      <Buttons handleButtonClick={handleButtonClick} />
+    <div className="calculator-content">
+      <h2 className="calculator-title">Lets do some math!</h2>
+      <div className="calculator">
+        <Container total={obj.total} operation={obj.operation} next={obj.next} />
+        <Buttons handleButtonClick={handleButtonClick} />
+      </div>
     </div>
   );
 };

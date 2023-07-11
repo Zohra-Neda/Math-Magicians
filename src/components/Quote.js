@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-export default function Quote() {
+function Quote() {
   const [data, setData] = useState(null);
   const [error, setError] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -38,9 +38,13 @@ export default function Quote() {
 
   if (data) {
     return (
-      <div className="quote-container">
-        <p className="quote">{data.quote}</p>
-      </div>
+      <center>
+        <div className="quotes-container">
+          <p className="quote">{data.quote}</p>
+        </div>
+      </center>
     );
   }
 }
+
+export default Quote;
