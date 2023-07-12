@@ -154,6 +154,12 @@ github pages
 - Twitter: [@zohra_neda](https://twitter.com/zohra_neda)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/zohra-neda-3716b720b/)
 
+👤 **Author2**
+
+- GitHub: [@Diana](https://github.com/DianaBeki)
+- Twitter: [@Diana](https://twitter.com/home)
+- LinkedIn: [LinkledIn](https://www.linkedin.com/in/diana-beki-b49684230/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
