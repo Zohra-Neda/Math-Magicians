@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should add two numbers correctly 1`] = `"5"`;
+
+exports[`should handle division by zero 1`] = `"Can't divide by 0."`;
+
+exports[`should handle modulo with zero divisor 1`] = `"Can't find modulo as can't divide by 0."`;
+
+exports[`should subtract two numbers correctly 1`] = `"3"`;
