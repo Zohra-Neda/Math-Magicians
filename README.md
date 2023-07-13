@@ -84,7 +84,7 @@ Built using modern web technologies like React, Redux, and Node.js, Math Magicia
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Coming Soon...
+- [Live Demo Link](https://math-magicians-zn-db.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,44 +96,36 @@ Built using modern web technologies like React, Redux, and Node.js, Math Magicia
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Node JS
+- Browser
+- VS Code
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Example commands:
-
 ```sh
-  cd my-folder
-  
   git clone https://github.com/Zohra-Neda/Math-Magicians.git
+  cd my-folder
 ```
 
 ### Install
 
 Install this project with:
 
-
-Example command:
-
+```sh
   cd my-project
   npm install
+```
 
 
 ### Usage
 
 To run the project, execute the following command:
 
-
-Example command:
-npm start
+```sh
+  npm start
+```
 
 ### Deployment
 
@@ -148,7 +140,7 @@ github pages
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author**
+👤 **Author1**
 
 - GitHub: [@zohra-neda](https://github.com/zohra-neda)
 - Twitter: [@zohra_neda](https://twitter.com/zohra_neda)
